@@ -1,0 +1,18 @@
+{
+  "name": "agenda-google-appscript",
+  "version": "1.0.0",
+  "main": "funciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.86"
+  },
+  "dependencies": {
+    "agenda-google-appscript": "file:"
+  }
+}
